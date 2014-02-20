@@ -1,0 +1,13 @@
+{
+  "name": "ianstormtaylor-on-load",
+  "description": "Callback when the document has loaded.",
+  "version": "0.0.1",
+  "keywords": [
+    "load",
+    "callback"
+  ],
+  "dependencies": {
+    "ianstormtaylor-callback": "git://github.com/npmcomponent/ianstormtaylor-callback.git"
+  },
+  "license": "MIT"
+}
